@@ -1,5 +1,7 @@
 # ePortfolio
 
+Select the project and click on the image.
+
 ### Z80 AMSTRAD CPCtelera Machine Code
 
 <div style="display: inline_block"><br>
