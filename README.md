@@ -13,6 +13,6 @@ Select the project and click on the image.
 ### Project Euler 
 
 <div style="display: inline_block"><br>
-    <a href=" "><img align="center" alt="AmstradCPC" height="240" width="240" src="https://github.com/aggranadoss/ePortfolio/blob/main/image/euler.png">
+    <a href="https://github.com/aggranadoss/project_euler"><img align="center" alt="AmstradCPC" height="240" width="240" src="https://github.com/aggranadoss/ePortfolio/blob/main/image/euler.png">
 </div>
 
