@@ -13,10 +13,10 @@ Select the project and click on the image.
 <div style="display: flex">
         <i class="fas fa-info-circle" style="color: blue;"></i>
         <div style="margin-left: 10px">Project Euler in </div>
-</div>
+
     
 <head> <link rel="stylesheet" type="text/css" href="https://github.com/aggranadoss/aggranadoss/blob/main/Image/c_language.svg">
 </head>
     
-
+</div>
 
