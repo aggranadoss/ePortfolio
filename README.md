@@ -21,5 +21,5 @@ Select the project and click on the image.
 
 
 <div style="display: inline_block"><br>
-    <a href="https://github.com/aggranadoss/numerical_methods"><img align="center" alt="Numerical" height="240" width="240" src="https://github.com/aggranadoss/ePortfolio/blob/main/image/clock.jpg">
+    <a href="https://github.com/aggranadoss/numerical_methods"><img align="center" alt="Numerical" height="120" width="240" src="https://github.com/aggranadoss/ePortfolio/blob/main/image/clock.jpg">
 </div>
