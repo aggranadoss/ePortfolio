@@ -16,3 +16,10 @@ Select the project and click on the image.
     <a href="https://github.com/aggranadoss/project_euler"><img align="center" alt="AmstradCPC" height="240" width="240" src="https://github.com/aggranadoss/ePortfolio/blob/main/image/euler.png">
 </div>
 
+### Numerical Methods
+
+
+
+<div style="display: inline_block"><br>
+    <a href="https://github.com/aggranadoss/numerical_methods"><img align="center" alt="Numerical" height="240" width="240" src="https://github.com/aggranadoss/ePortfolio/blob/main/image/clock.jpg">
+</div>
