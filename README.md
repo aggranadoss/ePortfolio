@@ -2,6 +2,14 @@
 
 Select the project and click on the image.
 
+
+### Data Science Projects
+
+<div style="display: inline_block"><br>
+    <a href=""><img align="center" alt="AmstradCPC" height="240" width="240" src="https://github.com/aggranadoss/ePortfolio/blob/main/image/data-science.png">
+</div>
+
+
 ### Z80 AMSTRAD CPCtelera Machine Code
 
 <div style="display: inline_block"><br>
@@ -15,7 +23,6 @@ Select the project and click on the image.
 </div>
 
 
-
 ### Project Euler 
 
 <div style="display: inline_block"><br>
@@ -24,8 +31,12 @@ Select the project and click on the image.
 
 ### Numerical Methods
 
-
-
 <div style="display: inline_block"><br>
     <a href="https://github.com/aggranadoss/numerical_methods"><img align="center" alt="Numerical" height="120" width="220" src="https://github.com/aggranadoss/ePortfolio/blob/main/image/clock.jpg">
+</div>
+
+### General Problems Solving
+
+<div style="display: inline_block"><br>
+    <a href=""><img align="center" alt="Numerical" height="120" width="220" src="https://github.com/aggranadoss/ePortfolio/blob/main/image/idea.png">
 </div>
