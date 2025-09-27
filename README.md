@@ -6,7 +6,7 @@ Select the project and click on the image.
 ### Data Science Projects
 
 <div style="display: inline_block"><br>
-    <a href=""><img align="center" alt="AmstradCPC" height="240" width="240" src="https://github.com/aggranadoss/ePortfolio/blob/main/image/data-science.png">
+    <a href="https://github.com/aggranadoss/Data-Science-Projects.git"><img align="center" alt="AmstradCPC" height="240" width="240" src="https://github.com/aggranadoss/ePortfolio/blob/main/image/data-science.png">
 </div>
 
 
@@ -38,5 +38,5 @@ Select the project and click on the image.
 ### General Problems Solving
 
 <div style="display: inline_block"><br>
-    <a href=""><img align="center" alt="Numerical" height="220" width="220" src="https://github.com/aggranadoss/ePortfolio/blob/main/image/idea.png">
+    <a href="https://github.com/aggranadoss/General-Problems-Solving.git"><img align="center" alt="Numerical" height="220" width="220" src="https://github.com/aggranadoss/ePortfolio/blob/main/image/idea.png">
 </div>
