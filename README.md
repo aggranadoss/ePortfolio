@@ -38,5 +38,5 @@ Select the project and click on the image.
 ### General Problems Solving
 
 <div style="display: inline_block"><br>
-    <a href=""><img align="center" alt="Numerical" height="120" width="220" src="https://github.com/aggranadoss/ePortfolio/blob/main/image/idea.png">
+    <a href=""><img align="center" alt="Numerical" height="220" width="220" src="https://github.com/aggranadoss/ePortfolio/blob/main/image/idea.png">
 </div>
